@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LuizLLPz
 - 👀 I’m interested in Back End and Web Development ...
-- 🌱 I’m currently learning PHP and React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning NextJS and Typescript
 
 <!---
 LuizLLPz/LuizLLPz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
