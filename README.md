@@ -1,9 +1,5 @@
 # Olá meu nome é Luiz Felipe Santos de Almeida.
-:school: Estou atualmente cursando Engenharia de Software 4° período.
-
-:mag_right: Procurando vaga de estágio em desenvolvimento Front End.
-
-:pencil2: Atualmente estudando Laravel + Vue.JS.
+:school: Estou atualmente cursando Engenharia de Software 5° período.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-santos-de-almeida-381a7219b/)](https://www.linkedin.com/in//)
 
