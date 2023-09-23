@@ -1,5 +1,5 @@
 # Olá meu nome é Luiz Felipe Santos de Almeida.
-:school: Estou atualmente cursando Engenharia de Software 5° período.
+:school: Estou atualmente cursando Engenharia de Software 6° período.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-santos-de-almeida-381a7219b/)](https://www.linkedin.com/in//)
 
