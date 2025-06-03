@@ -1,7 +1,7 @@
 # Olá meu nome é Luiz Felipe Santos de Almeida.
 :school: Estou atualmente cursando Engenharia de Software 7° período.
 
-Atualmente trabalho na <b>EGS Sistemas</b>, empresa onde estou chegando a 3 anos de experiência como desenvolvedor Full stack focado no foco de desenvolvimento e consumo de apis em sites e aplicativos móveis.
+Atualmente trabalho na <b>EGS Sistemas</b>, empresa onde estou chegando a 3 anos de experiência como desenvolvedor Full stack focado no foco de desenvolvimento e de apis para sites e aplicativos móveis junto com a criação do aplicativo que faz seu consumo.
 
 Saiba mais no meu linkedin 😉:
 <br/>
